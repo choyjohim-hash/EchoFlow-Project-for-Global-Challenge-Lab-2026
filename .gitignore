@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+capd_simulated_data/
+*.joblib
+*.asv
+*.slx.original
+*.mp4
+.env
